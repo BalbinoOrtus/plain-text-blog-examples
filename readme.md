@@ -3,7 +3,7 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <h1 align="center">Plain Text Blog Examples</h1>
+  <h2 align="center">Plain Text Blog Examples</h2>
 </div>
 
 <!-- ABOUT THE PROJECT -->

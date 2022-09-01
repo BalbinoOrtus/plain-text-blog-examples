@@ -1,10 +1,14 @@
 <a name="readme-top"></a>
 
+
+
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
   <h1 align="center">Plain Text Blog Examples</h1>
 </div>
+
+
 
 <!-- ABOUT THE PROJECT -->
 ### About The Project
@@ -38,19 +42,20 @@ This section lists frameworks/libraries that I used to bootstrap my project.
 First you have to download and install commandbox. Links for this are right 
 [here](https://www.ortussolutions.com/products/commandbox#download). Its github 
 repo is right [here](https://github.com/Ortus-Solutions/commandbox). After having 
-it installed open up your editor (I used vscode) in the empty folder and open
+it installed, open up your editor (I used vscode) in an empty folder and open
 commandbox in its terminal view.
 
-1. on the empty folder and in the bash terminal to clone this repo
+1. on the empty folder and in the `bash terminal` to clone this repo
     ```sh
     git clone https://github.com/BalbinoOrtus/plain-text-blog-examples.git
     ```
-2. vscode/commandbox terminal: move to the repo folder
+
+2. vscode/commandbox terminal: to move to the repo folder
     ```sh
     cd plain-text-blog-examples
     ```
 
-3. vscode/commandbox terminal
+3. vscode/commandbox terminal: to start the server
     ```sh
     server start
     ```

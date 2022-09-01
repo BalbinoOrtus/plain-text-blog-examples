@@ -35,10 +35,10 @@ This section lists frameworks/libraries that I used to bootstrap my project.
 
 ### Installation
 
-first you have to download and install commandbox. links for this are right 
-[here](https://www.ortussolutions.com/products/commandbox#download). its github 
+First you have to download and install commandbox. Links for this are right 
+[here](https://www.ortussolutions.com/products/commandbox#download). Its github 
 repo is right [here](https://github.com/Ortus-Solutions/commandbox). After having 
-it installed open up your editor (i used vscode) in the empty folder and open
+it installed open up your editor (I used vscode) in the empty folder and open
 commandbox in its terminal view.
 
 1. on the empty folder and in the bash terminal to clone this repo

@@ -3,11 +3,11 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <h2 align="center">Plain Text Blog Examples</h2>
+  <h1 align="center">Plain Text Blog Examples</h1>
 </div>
 
 <!-- ABOUT THE PROJECT -->
-## About The Project
+### About The Project
 This is a small project to help you understand what a Plain
 text password is and how can you use coldfusion to improve
 the security for it. Well at least to know what coldfusion has
